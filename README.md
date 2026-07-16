@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 data-importer="text" align="left">About me</h3>
+<h3 data-importer="text" align="left">About me :</h3>
 
 ###
 
-<p data-importer="text" align="left">🌱 I’m currently learning Data Analyst and GEN AI<br><br>👨‍💻 All of my projects are available at vishver308-star<br><br>📫 How to reach me vishver308@gmail.com<br><br>⚡ Fun fact I Think am Funny</p>
+<p data-importer="text" align="left">🌱 I’m currently learning Data Analyst and GEN AI<br><br>👨‍💻 All of my projects are available in My Profile<br><br>📫 How to reach me vishver308@gmail.com<br><br>⚡ Fun fact I Think am Funny</p>
 
 ###
 
@@ -76,21 +76,14 @@ Here are some ideas to get you started:
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=97&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=vishver308-star.vishver308-star&"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=vishver308-star&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/vishver308-star/vishver308-star/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/vishver308-star/vishver308-star/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=vishver308-star&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/vishver308-star/vishver308-star/activity-graph-output/activity-graph.svg?radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -103,13 +96,21 @@ Here are some ideas to get you started:
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<img data-importer="image" align="right" height="95" src="https://media1.tenor.com/m/tj-w0D12mqkAAAAC/hy.gif"  />
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=vishver308-star.vishver308-star&"  />
 </div>
 
 ###
 
-<br clear="both">
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishver308-star/vishver308-star/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
@@ -120,28 +121,11 @@ Here are some ideas to get you started:
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="95" src="https://media1.tenor.com/m/tj-w0D12mqkAAAAC/hy.gif"  />
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/vishver308-star/vishver308-star/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@v/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@v/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@v/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@v/1" alt="Medium post 2"  />
-  </a>
-</div>
+<p data-importer="text" align="center">Thanku..... 😊</p>
 
 ###
