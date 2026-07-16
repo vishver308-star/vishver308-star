@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">I Am CSE (AI/ML) from India</h3>
+<h1 align="center">Hi 👋, I'm Vishnu⚡</h1>
+<h3 align="center">I Am CSE (AI/ML) Studdent from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishver308-star&label=Profile%20views&color=0e75b6&style=flat" alt="vishver308-star" /> </p>
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vishver308@gmail.com**
 
-- ⚡ Fun fact **I Think am funny**
+- ⚡ Fun fact **I Think am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
